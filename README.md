@@ -1,4 +1,4 @@
-# 💫 Hello World
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hello World
 🔭 I'm currently building a mobile application that allows users to create mindmaps simply on Android<br><br>👯 I want to collaborate on projects related to software development, especially in the Mobile field<br><br>🌱 I'm currently learning how to develop a mobile app using Flutter and exploring various UI/UX design principles to create visually appealing and user-friendly interfaces.<br><br>💬 Ask me about my experience with cross-platform mobile development and my thoughts on the future of mobile technology.
 
 
