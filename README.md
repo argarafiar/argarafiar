@@ -1,5 +1,5 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hello World
-🔭 Currently developing e-commerce mobile app.<br>👯 Want to collaborate on open source mobile projects.<br>🤝 Need help with mobile development skills like optimization and user experience design.<br>🌱 Learn new technologies like Flutter and explore AI integration in mobile apps.<br>💬 Ask me about iOS/Android app development, user-centric design, or any mobile app challenge.
+🔭 Currently developing functional mobile app.<br>👯 Want to collaborate on open source mobile projects.<br>🤝 Need help with mobile development skills like optimization and user experience design.<br>🌱 Learn new technologies like Flutter and explore AI integration in mobile apps.<br>💬 Ask me about iOS/Android app development, user-centric design, or any mobile app challenge.
 
 
 ## 🌐 Socials:
