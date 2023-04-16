@@ -12,22 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=argarafiar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=argarafiar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## Everyday-everynight
-name: Work Stats Readme
+<!--START_SECTION:waka-->
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_7f43c66e-c312-4ccb-87fc-6d75ff7358fe }}
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=argarafiar&icon=6&color=0)](https://visitcount.itsvg.in)
